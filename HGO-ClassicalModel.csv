@@ -1,3 +1,4 @@
 File Name,Contributors,Publication Link,C1,k1,k2,alpha,RMSE,NRMSE,R2 ,Tissue,Species,Sourcing,Testing Module,Individual/Averaged,Optimization,Method,Initial Guess,Bounds,Experimental Details
 "('PigHeartWallRight08_4.csv',)",testing2,3.013033986373741e-05,3.0606746033767043,0.312136965418822,-2.1401453760300178,testing2
 "('PigHeartWallRight07_4.csv',)",testing2,5.309998448956119,0.02155188188936043,5.768690012726883,-0.9327665462777015,testing2
+"('PigHeartWallRight06_4.csv',)",testing2,0.005832221678494267,5.576475544437213,1.184681206e-11,-2.2352058508077297,testing2
