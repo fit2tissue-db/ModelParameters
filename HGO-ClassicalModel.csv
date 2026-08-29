@@ -1,1 +1,2 @@
 File Name,Contributors,Publication Link,C1,k1,k2,alpha,RMSE,NRMSE,R2 ,Tissue,Species,Sourcing,SamplePreservation,Testing Module,Individual/Averaged,Optimization,Method,Initial Guess,Bounds,Experimental Details
+"('PigHeartWallRight08_4.csv',)",Testing,Testing,-2.0371879775368833,4.093687037853331,0.1081018520926492,0.970771279623908,0.5936495701935883,0.02260910792446886,0.9936701014857015,cardiac,porcine,slaughterhouse,fresh,PBT,individual,Min-UB,CG,"[0.01, 0.01, 0.01, 0.01]","[[0, 100], [0, 100], [0, 100], [-3.14, 3.14]]",Testing
