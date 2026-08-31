@@ -1,1 +1,2 @@
 File Name,Contributors,Publication Link,c10,c20,c30,RMSE,NRMSE,R2 ,Tissue,Species,Sourcing,SamplePreservation,Testing Module,Individual/Averaged,Optimization,Method,Initial Guess,Bounds,Experimental Details
+"('PorcineAorticValverad3_0.2.csv',)",testing,testing,"[0.09611042074498496, 0.11467895607061307, 1.66291e-15]",0.026438132842102054,0.02149441694479842,0.9947522095377848,cardiac,porcine,butcher,fresh,UC,individual,Min-B,Nelder-Mead,"[1, 1, 1]","[[0, 100], [-100, 100], [0, 100]]",Test
